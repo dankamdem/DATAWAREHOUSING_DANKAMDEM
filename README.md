@@ -1,17 +1,19 @@
 # DATAWAREHOUSING_DANKAMDEM
 
-# Yango Data Warehouse Project
+# Spotify Data Warehouse Project
 
-My project is about designing a Data Warehouse for Yango, a transportation company.
+My project is about designing a Data Warehouse for Spotify, a music streaming platform.
+The main goal is to organize Spotify streaming data so that it can be used for analysis and decision-making.
 
-The main goal of the project is to organize Yango's data so that it can be used for analysis and decision-making.
-The Data Warehouse will focus mainly on trips, including information about customers, drivers, locations, time, and payments.
+The project will focus on users listening to songs and will include information about users, songs, artists, albums, time, and countries. The Data Warehouse will help answer questions such as:
 
-With this project, we will be able to analyze questions such as:
-How many trips are made?
-Which locations have the most trips?
-What are the busiest times?
-How much revenue is generated?
-Which drivers complete the most trips?
+Which songs are the most streamed?
+Which artists are the most popular?
+Which genres are listened to the most?
+Which countries have the most streams?
+What are the most popular listening times?
+
+
+
 
 
