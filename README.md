@@ -1,17 +1,12 @@
 # DATAWAREHOUSING_DANKAMDEM
 
-# Spotify Data Warehouse Project
+# Transfermarkt Data Warehouse 
 
-My project is about designing a Data Warehouse for Spotify, a music streaming platform.
-The main goal is to organize Spotify streaming data so that it can be used for analysis and decision-making.
+My project is about designing a Data Warehouse using football player data from Transfermarkt, a football website. The main goal is to organize football player data so that it can be used for analysis and decision-making.
 
-The project will focus on users listening to songs and will include information about users, songs, artists, albums, time, and countries. The Data Warehouse will help answer questions such as:
+The project will focus on players and will include information about players, their age, position, nationality, club, market value, matches, goals, assists, yellow cards, and red cards. The Data Warehouse will help answer questions such as:
 
-Which songs are the most streamed?
-Which artists are the most popular?
-Which genres are listened to the most?
-Which countries have the most streams?
-What are the most popular listening times?
+Which players have the highest market value? Which clubs have the most valuable players? Which players have scored the most goals? Which players have the most assists? Which positions have the highest average market value?
 
 
 
